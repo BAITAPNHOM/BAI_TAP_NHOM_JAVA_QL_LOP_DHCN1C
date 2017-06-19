@@ -1,5 +1,5 @@
 # BAI_TAP_NHOM_JAVA_QL_LOP_DHCN1C
-ĐỀ TÀI: Quản lý sinh viên lớp DHCN1C
+ĐỀ TÀI: QUẢN LÝ SINH VIÊN LỚP DHCN1C
 
 Chức Năng Ứng Dụng Quản Lý Sinh Viên Lớp DHCN1C Trường Đại Học Thông Tin Liên Lạc:
 
